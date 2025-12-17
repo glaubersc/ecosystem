@@ -1,0 +1,7 @@
+**/.env
+**/bin
+**/dist
+**/vendor
+**/node_modules
+**/.idea
+**/.vscode
